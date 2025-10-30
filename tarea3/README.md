@@ -36,3 +36,6 @@ Se inicia servicios de Docker y Sprinng
 
 ![Imagen de contenedor descargada](screenshots/6get.png)
 
+**Proyecto Funcional**
+
+https://github.com/ebertcastillo/curso-springboot-kafka/tree/main/tarea3/tarea2
