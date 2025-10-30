@@ -48,4 +48,4 @@ Paso 2: Importa y ejecuta
 
 ![Imagen de contenedor descargada](screenshots/web.png)
 
-![Imagen de contenedor descargada](cmd/springweb.png)
+![Imagen de contenedor descargada](screenshots/cmd.png)
