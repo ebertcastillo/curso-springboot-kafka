@@ -73,3 +73,6 @@ Construir un CRUD simple para la entidad Product utilizando Spring Data JPA, Doc
 ![Imagen de contenedor descargada](screenshots/logs.png)
 
 
+**Proyecto Funcional**
+
+https://github.com/ebertcastillo/curso-springboot-kafka/tree/main/tarea2/tarea2
