@@ -13,8 +13,6 @@ Construir un CRUD simple para la entidad Product utilizando Spring Data JPA, Doc
 
 **CREACION DEL PROYECTO**
 
-![Imagen de contenedor descargada](screenshots/tit1.png)
-
 **DOCUMENTOS JAVA**
 
 ![Imagen de contenedor descargada](screenshots/prdcontroller.png)
@@ -67,6 +65,8 @@ Construir un CRUD simple para la entidad Product utilizando Spring Data JPA, Doc
 **INSERT POR CONSOLA**
 
 ![Imagen de contenedor descargada](screenshots/insercmd.png)
+
+![Imagen de contenedor descargada](screenshots/tit1.png)
 
 **LOGS**
 
