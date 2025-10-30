@@ -18,19 +18,19 @@ Ejecuta estos comandos y captura los resultados:
 
 java -version
 
-![Imagen de contenedor descargada](screenshots/javaversion.jpg)
+![Imagen de contenedor descargada](screenshots/javaversion.png)
 
 javac -version
 
-![Imagen de contenedor descargada](screenshots/javacversion.jpg)
+![Imagen de contenedor descargada](screenshots/javacversion.png)
 
 mvn -version
 
-![Imagen de contenedor descargada](screenshots/mvnversion.jpg)
+![Imagen de contenedor descargada](screenshots/mvnversion.png)
 
 git --version
 
-![Imagen de contenedor descargada](screenshots/gitversion.jpg)
+![Imagen de contenedor descargada](screenshots/gitversion.png)
 
 **Parte 2: Crear Proyecto Starter**
 
@@ -38,7 +38,7 @@ git --version
 
 Método 1: Web (https://start.spring.io/)
 
-![Imagen de contenedor descargada](screenshots/springweb.jpg)
+![Imagen de contenedor descargada](screenshots/springweb.png)
 
 Paso 2: Importa y ejecuta
 *Descomprime (si usaste web)
@@ -46,6 +46,6 @@ Paso 2: Importa y ejecuta
 *Espera que Maven descargue dependencias
 *Ejecuta: mvn spring-boot:run
 
-![Imagen de contenedor descargada](screenshots/web.jpg)
+![Imagen de contenedor descargada](screenshots/web.png)
 
-![Imagen de contenedor descargada](cmd/springweb.jpg)
+![Imagen de contenedor descargada](cmd/springweb.png)
